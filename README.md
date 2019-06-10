@@ -1,3 +1,3 @@
 # TestGit
 This is for testing Git
-This is for Demo Purpose
+This is for Demo Purposes
